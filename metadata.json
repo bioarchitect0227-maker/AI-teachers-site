@@ -1,0 +1,6 @@
+{
+  "name": "천안 AI 강사 에듀허브 (Cheonan AI EduHub)",
+  "description": "천안시 AI 강사들을 위한 통합 교육 플랫폼. 실무 교육 자료 공유, 수강생 출결 및 성취도 관리, 출강 네트워크 및 AI 수업 지도안 생성 지원.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
